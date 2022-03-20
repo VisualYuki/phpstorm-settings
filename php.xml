@@ -1,15 +1,15 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="b71624c6-a611-4fe8-815c-0c887aa492c7" name="PHP 7.4" home="D:\copy\OpenServer\modules\php\PHP_7.4\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="472bb69e-22ec-45db-89cf-fa0ed6d63561" name="PHP" home="C:\OpenServer\modules\php\PHP_7.4\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cgi="D:\copy\OpenServer\modules\php\PHP_7.4\php-cgi.exe" php_cli="D:\copy\OpenServer\modules\php\PHP_7.4\php.exe" path_separator=";" version="7.4.27">
+      <interpreter name="PHP">
+        <phpinfo binary_type="PHP" php_cgi="C:\OpenServer\modules\php\PHP_7.4\php-cgi.exe" php_cli="C:\OpenServer\modules\php\PHP_7.4\php.exe" path_separator=";" version="7.4.27">
           <additional_php_ini />
-          <configuration_file>D:\copy\OpenServer\modules\php\PHP_7.4\php.ini</configuration_file>
+          <configuration_file>C:\OpenServer\modules\php\PHP_7.4\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value="." />
           </configuration_options>
