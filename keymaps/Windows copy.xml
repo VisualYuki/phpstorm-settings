@@ -63,7 +63,9 @@
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
-  <action id="StepOver" />
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="ToggleBookmark" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
