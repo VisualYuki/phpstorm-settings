@@ -49,6 +49,9 @@
   </action>
   <action id="Table-startEditing" />
   <action id="Tree-startEditing" />
+  <action id="WhatsNewAction">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.SetValue" />
   <action id="openAssertEqualsDiff" />
